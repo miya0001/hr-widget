@@ -3,7 +3,7 @@
 Plugin Name: Horizontal Rule Widget
 Description: This plugin allow you to insert <hr /> on sidebar widget.
 Author: Takayuki Miyauchi
-Version: 0.2
+Version: 1.0.0
 Author URI: http://wpist.me/
 Plugin URI: http://wpist.me/
 Domain Path: /languages
