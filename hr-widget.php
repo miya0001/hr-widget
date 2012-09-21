@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Horizontal Rule Widget
-Description: This plugin allow you to insert <hr /> on sidebar widget.
+Description: This plugin allow you to insert horizontal rule on widget.
 Author: Takayuki Miyauchi
 Version: 1.0.0
 Author URI: http://wpist.me/
@@ -65,4 +65,5 @@ public function plugins_loaded()
 
 new hrWidgetInit();
 
-?>
+
+// EOF
